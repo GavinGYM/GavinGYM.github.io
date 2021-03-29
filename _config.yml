@@ -2,9 +2,9 @@ url: gavingym.github.io
 baseurl: 
 
 # Site settings
-title: A+在线教育答题平台
+title: 高光谱云盘-在线解混
 email: gavin-gym@foxmail.com
-description: "A+在线教育平台介绍页."
+description: "高光谱云盘-在线解混-介绍页."
 
 
 # Team names, titles and social links
@@ -20,27 +20,27 @@ people:
     - title: github
       url: http://github.com/gavingym
 
-- name: 张加
-  pic: 2
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+# - name: 张加
+#   pic: 2
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
 
-- name: 任楚潼
-  pic: 3
-  position: Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# - name: 任楚潼
+#   pic: 3
+#   position: Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
