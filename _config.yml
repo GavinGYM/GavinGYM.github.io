@@ -12,9 +12,7 @@ people:
 
 
 - name: 
-  pic: 
   position: 
-  social:
       
 - name: 郭亦铭(GavinGYM)
   pic: 1
@@ -28,7 +26,6 @@ people:
       url: http://github.com/gavingym
 
 - name: 
-  pic: 
   position: 
 
 
