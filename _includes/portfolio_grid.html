@@ -10,7 +10,8 @@
             <div class="row">
             {% for post in site.posts %}
                 <div class="col-md-6 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+<!--                         http://localhost:8501/?hdrpath=\1\2021-03-18\0\Urban.hdr&imgpath=\1\2021-03-18\0\Urban.img -->
+                    <a href="http://localhost:8501/?hdrpath=\demo-image\{{ post.title }}.hdr&imgpath=\demo-image\{{ post.title }}.img" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
