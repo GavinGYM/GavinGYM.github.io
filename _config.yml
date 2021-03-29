@@ -9,10 +9,6 @@ description: "高光谱云盘-在线解混-介绍页."
 
 # Team names, titles and social links
 people:
-
-
-- name: 
-  position: 
       
 - name: 郭亦铭(GavinGYM)
   pic: 1
@@ -25,8 +21,27 @@ people:
     - title: github
       url: http://github.com/gavingym
 
-- name: 
-  position: 
+# - name: 张加
+#   pic: 2
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
+
+# - name: 任楚潼
+#   pic: 3
+#   position: Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
